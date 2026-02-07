@@ -1,14 +1,10 @@
-# Python-basics-
-My first Python learning repository
-print("Hello, World!")
-num = int(input("Enter a number: "))
-if num % 2 == 0:
-    print("Even number")
-else:
-    print("Odd number")
-    a = int(input("Enter first number: "))
-b = int(input("Enter second number: "))
+# Python Basics 🐍
 
-print("Sum:", a + b)
-print("Difference:", a - b)
-print("Product:", a * b)
+This repository contains my beginner Python programs.
+
+### Programs included:
+- hello.py – prints Hello World
+- even_odd.py – checks whether a number is even or odd
+- simple_calculator.py – performs basic arithmetic operations
+
+📚 I am learning Python step by step as a 1st-year Robotics & AI student at JNNCE.
